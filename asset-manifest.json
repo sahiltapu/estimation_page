@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estimation_page/static/css/main.2f603601.css",
+    "main.js": "/estimation_page/static/js/main.00d745a7.js",
+    "index.html": "/estimation_page/index.html",
+    "main.2f603601.css.map": "/estimation_page/static/css/main.2f603601.css.map",
+    "main.00d745a7.js.map": "/estimation_page/static/js/main.00d745a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f603601.css",
+    "static/js/main.00d745a7.js"
+  ]
+}
