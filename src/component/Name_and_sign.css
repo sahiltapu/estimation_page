@@ -1,0 +1,61 @@
+.Name_and_sign_outer_div { 
+  background: #A076F9; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  text-align: center; 
+  width: 100%; 
+} 
+
+.Name_and_sign_div { 
+  background: #FFE4A7; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  text-align: center; 
+  padding-bottom: 5%;
+  margin-bottom: 0px; 
+  width: 90%; 
+  margin-top: 0; 
+  padding-top: 20px;
+  margin-bottom: 41px;
+}
+
+.Name_sign_span{
+  margin-left: 400px;
+  
+}
+.Account_details_outerdiv{
+  background: #A076F9; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  text-align: center; 
+  width: 100%;
+  margin-top: -160px;
+
+}
+.Account_details_div{
+  background: #FFE4A7;
+  margin-right: 31.5%;
+  line-height: 2px; 
+  align-items: left; 
+  justify-content: left; 
+  text-align: left; 
+
+}
+.Show_or_height_details{
+  border: none;
+  color: black;
+  font-weight: bolder;
+  height: 25px;
+  background-color: green;
+  opacity: 0.6; 
+  width: 350px;
+  margin-top: -20px;
+
+}
+.Show_or_height_details:hover{
+  opacity: 1;
+
+}

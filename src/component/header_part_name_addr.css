@@ -1,0 +1,24 @@
+.Header_part_name_addr_outer_div {
+  background: #A076F9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.name_adder_div{
+    background: #FFE4A7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 90%;
+}
+.name_addr_table{
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+
+}
+.input_field{
+    width:540px;
+}

@@ -1,0 +1,88 @@
+.Item_table_outer_div {
+  background: #A076F9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.item_table_div {
+  background: #FFE4A7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 90%;
+
+}
+.add-circle{
+    font-weight: bolder;
+    height: 25px;
+    color: green;
+    opacity: 0.6;
+    background: white;
+    border: none;
+    outline: none;
+}
+.add-circle:hover{
+    opacity: 1;
+    border: 1px solid black;
+
+}
+.close-circle{
+    font-weight: bolder;
+    height: 25px;
+    color: red;
+    opacity: 0.6;
+    background: white;
+    border: none;
+    outline: none;
+}
+.close-circle:hover{
+    opacity: 1;
+    border: 1px solid black;
+}
+.serialno:hover{
+    cursor: not-allowed;
+}
+.total_amount{
+    cursor: not-allowed;
+}
+.Final_total_button{
+    height: 25px;
+    width: 76px;
+    background:green;
+    opacity: 0.7;
+    border: none;
+    outline: none;
+    color: black;
+    font-weight: bolder;
+}
+.Final_total_button:hover{
+    opacity: 1;
+    border:1px solid black;
+   
+}
+.Final_total_label{
+    height: 25px;
+    width: 120px;
+    cursor: not-allowed;
+}
+.print_button{
+    height: 25px;
+    width: 60px;
+    background:green;
+    opacity: 0.7;
+    border: none;
+    outline: none;
+    color: white;
+}
+.print_button:hover{
+    opacity: 1;
+    border:1px solid black;
+}
+.Final_total_button_table{
+    padding: 0 0 0 0;
+    margin-bottom: 2px;
+    margin-left: 423px;
+}

@@ -1,0 +1,21 @@
+.Header_part_loc_phno_outer_div {
+  background: #A076F9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.Loc_phno_part {
+  background: #FFE4A7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 90%;
+}
+.Style_text {
+  color: #393646;
+  font: bolder;
+  font-size: larger;
+  font-weight: bolder;
+}

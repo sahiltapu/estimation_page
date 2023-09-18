@@ -1,0 +1,54 @@
+.Header_part_outer_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+.Branding_part {
+  background: #FFE4A7;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 90%;
+}
+.Date_Sl_td {
+  width: 100%;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  text-align: left;
+}
+.Estimate_div {
+  background-color: #393646;
+  color: white;
+  font-size: large;
+  display: flex;
+  width: 130px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font: message-box;
+  border-radius: 20px;
+}
+.Pumphouse_label {
+  font-family: "Anton", sans-serif;
+  color: #393646;
+  font-size: 42px;
+  font: bolder;
+}
+.cellStyle {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.Branding_table{
+    padding-left: 200px;
+}
+.Sl_input,
+.date_input{
+  width: 105px;
+}
