@@ -9,7 +9,9 @@ const Header_part_deals_in = () =>{
             <div className="Deals_in_div">
                 <p style={{textAlign:"left"}}>
                     <strong><i>DEALS IN - </i></strong> kiloskar / Greaves / Honda Pumpset / Genset / Vibrators / Sprayers<br />
-                        all type of Suction delivery Pipes and Construction equipments.               
+                        all type of Suction delivery Pipes and Construction equipments. <br /><br />
+                        <strong className="GSTN">GSTN - 21AKZPM5499G1ZG</strong>
+
                 </p>
             </div>
         </div>
