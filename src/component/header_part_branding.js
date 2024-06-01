@@ -8,7 +8,7 @@ const Header_part_branding = () => {
         <table className="Branding_table">
           <tr>
             <td className="cellStyle">
-              <div className="Estimate_div">ESTIMATE</div>
+              <div className="Estimate_div">ESTIMATE/QUOTATION</div>
             </td>
             <td className="Date_Sl_td">
               <div>

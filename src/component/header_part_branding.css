@@ -25,7 +25,8 @@
   color: white;
   font-size: large;
   display: flex;
-  width: 130px;
+  width: fit-content;
+  padding: 2px 50px 2px 50px;
   align-items: center;
   justify-content: center;
   text-align: center;
